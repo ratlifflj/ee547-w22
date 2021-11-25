@@ -25,3 +25,10 @@ seo:
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+
+{% assign instructors = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+
