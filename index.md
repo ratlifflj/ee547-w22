@@ -60,3 +60,10 @@ There is no single text that provides adequate coverage of the systems theory co
 
 - [videos on basics of numerical integration, differentiation, optimization, numerical linear algebra, etc.](https://www.youtube.com/channel/UC_6KMU8k4R6q4Vk5IGTfJEQ/playlists) 
 - [videos on Introduction to Dynamical Systems](https://www.youtube.com/view_play_list?p=06960BA52D0DB32B)
+
+
+## Lectures
+[Calendar](calendar.md){: .btn .btn-outline .fs-3 }
+
+Lectures will be posted on the calendar link. This includes all materials such
+as latex'd notes, slides, problem worksheets, and videos. 
