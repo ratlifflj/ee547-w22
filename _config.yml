@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EE/AA 547
+title: EE 547
 tagline: Linear Systems Theory
 description: A first course on linear systems theory
 author: Lillian J. Ratliff
-baseurl: '/about' # the subpath of your site, e.g. /blog
-url: 'https://ratlifflj.github.io/ee547-w22' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://ratlifflj.github.io/ee547-w22/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
