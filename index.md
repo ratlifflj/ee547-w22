@@ -63,7 +63,8 @@ There is no single text that provides adequate coverage of the systems theory co
 
 
 ## Lectures
-[Calendar](calendar.md){: .btn .btn-outline .fs-3 }
+[Lectures](lecture.md){: .btn .btn-outline .fs-3 }
 
-Lectures will be posted on the calendar link. This includes all materials such
-as latex'd notes, slides, problem worksheets, and videos. 
+Lectures will be posted on the lecture link above. This includes all materials such
+as latex'd notes, slides, problem worksheets, and videos. Course materials are
+organized into modules.
