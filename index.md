@@ -20,3 +20,8 @@ seo:
 ## EE/AA 547 Linear Systems Theory
 
 **Reminder**: EE/AA 510 is a pre-requisite to this course. If you have not taken it, please email me.
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
