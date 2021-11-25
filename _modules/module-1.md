@@ -1,5 +1,5 @@
 ---
-title: [Module 1] Stability of Linear Systems
+title: Module 1 Stability of Linear Systems
 ---
 
 Jan 13
