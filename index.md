@@ -42,3 +42,21 @@ By the end of this course, you will be able to:
 
 This course website/syllabus is a living document.
 
+## Textbook and References
+There is no single text that provides adequate coverage of the systems theory concepts and the background material in sufficient detail and at a sufficiently advanced level to serve the needs of this course. There is no required textbook for the course. That being said, the two main textbooks we will follow are:
+
+- Hespanha, Linear Systems Theory
+- Callier and Desoer, Linear Systems Theory
+
+#### Other references
+- Math language and logic: [Real Mathematical Analysis](https://link.springer.com/book/10.1007%2F978-3-319-17771-7) by Pugh
+- Linear algebra: [Vectors, Matrices, and Least Squares](http://www.seas.ucla.edu/~vandenbe/133A/133A-textbook.pdf)  by Boyd and Vandenberghe AND [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)  by Hefferon
+- Dynamical systems theory: Nonlinear dynamics and chaos (Links to an external site.) by Strogatz
+- Linear control theory: Linear System Theory and Design (Links to an external site.) by Chen (You can get this book online through the UW Library; it is good for frequency domain analysis in linear systems theory)
+- More Linear control theory: Feedback Systems  (Links to an external site.) by Astrom and Murray
+- Scientific computing: Dive into Python (Links to an external site.); Numpy Manual (Links to an external site.)
+
+#### Additional Video References:
+
+- [videos on basics of numerical integration, differentiation, optimization, numerical linear algebra, etc.](https://www.youtube.com/channel/UC_6KMU8k4R6q4Vk5IGTfJEQ/playlists) 
+- [videos on Introduction to Dynamical Systems](https://www.youtube.com/view_play_list?p=06960BA52D0DB32B)
