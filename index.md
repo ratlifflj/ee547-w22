@@ -31,4 +31,14 @@ seo:
 {{ staffer }}
 {% endfor %}
 
+## Overview and outcomes
+This focus of this course is the use of linearity in systems theory. It provides foundational tools for modeling and control and serves as a prerequisite for more advanced courses in control theory, robotics, and optimization. The class will be mathematically rigorous, and builds upon concepts familiar from linear algebra (510), ordinary differential equations, and feedback control. In addition to analytical results, we will see computational tools and illustrate abstract concepts whenever possible using numerical examples.
+
+By the end of this course, you will be able to:
+  - construct and simulate linear control system models for physical phenomena;
+  - approximate nonlinear control system models using linear control systems;
+  - assess stability, controllability, and observability of linear control systems;
+  - design and implement a stabilizing controller + observer for linear systems.
+
+This course website/syllabus is a living document.
 
