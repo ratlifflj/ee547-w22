@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EE/AA 547
+title: EE547
 nav_exclude: true
 seo:
   type: Course
