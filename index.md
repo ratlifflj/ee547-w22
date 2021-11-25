@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: EE/AA 547
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: EE/AA 547
 ---
 
 # {{ site.tagline }}
@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## EE/AA 547 Linear Systems Theory
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
