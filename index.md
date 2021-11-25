@@ -68,3 +68,36 @@ There is no single text that provides adequate coverage of the systems theory co
 Lectures will be posted on the lecture link above. This includes all materials such
 as latex'd notes, slides, problem worksheets, and videos. Course materials are
 organized into modules.
+
+## Homework Self-Grading Process
+Homework will be graded via a two part process. We will randomly select one problem to grade from each homework. The remainder of the problems you will be required to self-assess through the process below.
+
+Homeworks will be assigned on Monday and due the following Sunday, with extra credit if you turn it in on Friday. The self-assessment portion will be due the following  Friday after the homework is due.
+
+
+There will be a written homework assignment due in electronic form as a .pdf on Canvas due. There will be roughly weekly homework assignments.  There will be approximately 6-8 homework assignments.
+
+#### Self-assessment Process
+ To provide training and feedback that helps cultivate self-reflection, you will grade your homework assignments and receive oversight and feedback from the instructional staff regarding the accuracy of your self-assessment.
+
+**Rubric**: we will provide detailed solutions on the day of the homework submission deadline, and you will have until the following Friday to grade each of your homework problems on a 0,1,2 point scale:
+0 points - no effort / not attempted
+1 points - attempted, but incomplete or incorrect solution
+2 points - complete and correct solution
+For any problem that earns a 1, you have the opportunity to explain the error in your solution and how to correct it; if this explanation is correct, you earn the full 2 points on the problem. You do not give yourself the 2 points if you got an incorrect problem and corrected it. The TA and myself will assign you the extra point after going through your homework.  To specify grades and provide explanations of any errors, use the Comment feature in Canvas's Assignment page for the homework.
+
+Notes and caveats intended to ensure the integrity of this process:
+- if you did not attempt the problem initially, you will receive zero points;
+- if you do not grade a problem, you will receive zero points;
+- if you grade incorrectly (i.e. initial solution is incomplete or incorrect and your explanation is incomplete or incorrect), you will receive one or zero at the discretion of the instructional staff (this ensures you cannot simply assign all "2"s, nor can you receive full credit for incomplete or incorrect explanations).
+
+#### Frequently Asked Questions (FAQ)
+**Q**:  should I download my .pdf, add comments (e.g. via Adobe Acrobat), and re-upload the .pdf?
+
+**A**: That's fine, but it's probably easier to use the in-browser "CrocoDoc" viewing and annotation pane provided in Canvas.
+
+**Q**:  does my .pdf need to contain all of my homework writeup materials, or can some be in an .ipynb file?
+
+**A**: Your writeup must be submitted as a single self-contained .pdf document.  You must also upload sourcecode for any computational tools used to complete the assignment, but these will not be graded (they are used only to protect against plagiarism of sourcecode).
+
+Submission suggestions: You are welcome (and we encourage you) to typeset your homework assignments rather than write them by hand.
