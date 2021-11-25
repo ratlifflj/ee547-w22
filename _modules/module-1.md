@@ -1,9 +1,6 @@
 ---
-title: Stability of Linear Systems
+title: Module 1: Stability of Linear Systems
 ---
-
-Jan 11
-: **module 1**
 
 Jan 13
 : **Section**{: .label .label-purple }[Linked Lists](#)
