@@ -45,8 +45,8 @@ This course website/syllabus is a living document.
 ## Textbook and References
 There is no single text that provides adequate coverage of the systems theory concepts and the background material in sufficient detail and at a sufficiently advanced level to serve the needs of this course. There is no required textbook for the course. That being said, the two main textbooks we will follow are:
 
-- Hespanha, Linear Systems Theory
-- Callier and Desoer, Linear Systems Theory
+- Hespanha, [Linear Systems Theory](https://web.ece.ucsb.edu/~hespanha/linearsystems/)
+- Callier and Desoer, [Linear Systems Theory](https://link.springer.com/book/10.1007/978-1-4612-0957-7)
 
 #### Other references
 - Math language and logic: [Real Mathematical Analysis](https://link.springer.com/book/10.1007%2F978-3-319-17771-7) by Pugh
