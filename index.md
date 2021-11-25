@@ -51,10 +51,10 @@ There is no single text that provides adequate coverage of the systems theory co
 #### Other references
 - Math language and logic: [Real Mathematical Analysis](https://link.springer.com/book/10.1007%2F978-3-319-17771-7) by Pugh
 - Linear algebra: [Vectors, Matrices, and Least Squares](http://www.seas.ucla.edu/~vandenbe/133A/133A-textbook.pdf)  by Boyd and Vandenberghe AND [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)  by Hefferon
-- Dynamical systems theory: Nonlinear dynamics and chaos (Links to an external site.) by Strogatz
-- Linear control theory: Linear System Theory and Design (Links to an external site.) by Chen (You can get this book online through the UW Library; it is good for frequency domain analysis in linear systems theory)
-- More Linear control theory: Feedback Systems  (Links to an external site.) by Astrom and Murray
-- Scientific computing: Dive into Python (Links to an external site.); Numpy Manual (Links to an external site.)
+- Dynamical systems theory: [Nonlinear dynamics and chaos](http://ebookcentral.proquest.com.offcampus.lib.washington.edu/lib/washington/detail.action?docID=1181622)  by Strogatz
+- Linear control theory: [Linear System Theory and Design](https://app.knovel.com/web/toc.v/cid:kpLSTDE003/viewerType:toc/root_slug:linear-system-theory)  by Chen (You can get this book online through the UW Library; it is good for frequency domain analysis in linear systems theory)
+- More Linear control theory: [Feedback Systems](http://www.cds.caltech.edu/~murray/amwiki/Main_Page)   by Astrom and Murray
+- Scientific computing: [Dive into Python](http://www.diveintopython3.net/)
 
 #### Additional Video References:
 
