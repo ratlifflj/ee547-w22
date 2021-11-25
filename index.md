@@ -101,3 +101,5 @@ Notes and caveats intended to ensure the integrity of this process:
 **A**: Your writeup must be submitted as a single self-contained .pdf document.  You must also upload sourcecode for any computational tools used to complete the assignment, but these will not be graded (they are used only to protect against plagiarism of sourcecode).
 
 Submission suggestions: You are welcome (and we encourage you) to typeset your homework assignments rather than write them by hand.
+
+
