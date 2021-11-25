@@ -18,7 +18,7 @@ title: EE 547
 tagline: Linear Systems Theory
 description: A first course on linear systems theory
 author: Lillian J. Ratliff
-baseurl: 'ee547-w22/'
+baseurl: '/ee547-w22'
 url: 'https://ratlifflj.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
